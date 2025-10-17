@@ -1,0 +1,106 @@
+body {
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+  font-style: normal;
+  color: #434455;
+  background-color: white;
+  font-size: 16px;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+.logo {
+  font-family: Raleway;
+  color: #2e2f42;
+  font-size: 18px;
+  font-weight: 700;
+  width: 115;
+  height: 24;
+  opacity: 1;
+  top: 24px;
+  left: 156px;
+}
+.logo span {
+  color: #4d5ae5;
+}
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+button {
+  width: 169;
+  height: 56;
+  gap: 10px;
+  opacity: 1;
+  border-radius: 4px;
+  top: 20px;
+  left: 20px;
+  padding-top: 16px;
+  padding-right: 32px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  background-color: #4d5ae5;
+  color: white;
+  cursor: pointer;
+}
+.menu {
+  width: 261;
+  height: 24;
+  gap: 40px;
+  opacity: 1;
+  top: 24px;
+  left: 347px;
+}
+.contact-link {
+  width: 151;
+  height: 24;
+  opacity: 1;
+  top: 24px;
+  left: 1133px;
+}
+.contact-link-m {
+  width: 153;
+  height: 24;
+  opacity: 1;
+  top: 24px;
+  left: 940px;
+}
+.Service {
+  width: 1440;
+  height: 600;
+  top: 72px;
+  background-color: #2e2f42;
+}
+.Service .main-title {
+  color: white;
+  width: 496;
+  height: 120;
+  opacity: 1;
+  top: 260px;
+  left: 472px;
+  line-height: 60px;
+}
+.third-title {
+  font-family: Roboto;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color: #2e2f42;
+}
+.our-team {
+  width: 1440;
+  height: 732;
+  opacity: 1;
+  top: 1016px;
+  background-color: #f4f4fd;
+}
+.second-title {
+  width: 162;
+  height: 40;
+  opacity: 1;
+  top: 1136px;
+  left: 639px;
+}
