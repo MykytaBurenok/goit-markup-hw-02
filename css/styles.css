@@ -27,6 +27,10 @@ ol {
 a {
   text-decoration: none;
   color: currentColor;
+  a :hover,
+  :focus {
+    color: #4d5ae5;
+  }
 }
 button {
   width: 169;
